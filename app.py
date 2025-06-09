@@ -6,6 +6,7 @@ import tempfile
 import os
 import re
 import textwrap
+from youtube_transcript_api import YouTubeTranscriptApi
 from youtube_transcript_api.proxies import WebshareProxyConfig
 
 ytt_api = YouTubeTranscriptApi(
