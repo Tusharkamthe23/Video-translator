@@ -6,6 +6,14 @@ import tempfile
 import os
 import re
 import textwrap
+from youtube_transcript_api.proxies import WebshareProxyConfig
+
+ytt_api = YouTubeTranscriptApi(
+    proxy_config=WebshareProxyConfig(
+        proxy_username=username,
+        proxy_password=password,
+    )
+)
 
 # --- Extract YouTube Video ID ---
 def extract_video_id(url):
