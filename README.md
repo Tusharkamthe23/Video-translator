@@ -1,6 +1,8 @@
 <div align="left" style="position: relative;">
 <img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>VIDEO-TRANSLATOR</h1>
+	![image](https://github.com/user-attachments/assets/f6771034-3886-42a1-919f-e4ec784e19ad)
+
 <p align="left">
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
@@ -16,6 +18,7 @@
 </p>
 </div>
 <br clear="right">
+![Uploading image.png…]()
 
 ## 🔗 Table of Contents
 
