@@ -37,15 +37,65 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯# 🎧 Transcript Translator & Audio Generator
+
+This Streamlit-based web app allows users to input a video/audio transcript, automatically translate it into a selected language, and generate a spoken audio version of the translation.
+
+--- </code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ - 📝 Input text transcript
+- 🌐 Translate to multiple Indian and international languages
+- 🔊 Generate audio in the selected language
+- ▶️ Preview the translated audio
+- 💾 Download the translated transcript
+
+---</code>
 
 ---
+
+<code>
+	🗣️ Supported Languages
+
+Includes Indian languages such as:
+- Hindi (`hi`)
+- Marathi (`mr`)
+- Bengali (`bn`)
+- Tamil (`ta`)
+- Telugu (`te`)
+- Kannada (`kn`)
+- Malayalam (`ml`)
+- Gujarati (`gu`)
+- Punjabi (`pa`)
+- Odia (`or`)
+- Assamese (`as`)
+- Urdu (`ur`)
+
+And international languages like:
+- Spanish (`es`)
+- French (`fr`)
+- German (`de`)
+- Italian (`it`)
+- Chinese Simplified (`zh-cn`)
+- Japanese (`ja`)
+- Russian (`ru`)
+- Portuguese (`pt`)
+
+---
+
+## 🛠️ How It Works
+
+1. Enter a valid transcript (e.g., a conversation, speech, or lecture).
+2. Select your desired translation language from the dropdown.
+3. Click the "Translate and Generate Audio" button.
+4. View the original and translated transcripts.
+5. Play or download the generated audio.
+6. Optionally, download the translated text.
+
+</code>
 
 ## 📁 Project Structure
 
