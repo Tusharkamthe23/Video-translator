@@ -2,3 +2,4 @@ streamlit
 youtube-transcript-api
 deep-translator
 gtts
+os
